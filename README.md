@@ -41,4 +41,5 @@ An initial data set of 15 schools was provided for performance analysis of Math 
     * ![Screen Shot 2022-05-01 at 1 47 24 PM](https://user-images.githubusercontent.com/98665941/166160102-80a42707-a296-4ddc-babf-bf14e5e5abee.png)
     * Revised:
     * ![Screen Shot 2022-05-01 at 1 47 48 PM](https://user-images.githubusercontent.com/98665941/166160111-5fc82866-92bb-4a0f-b986-08da6cdcae7a.png)
-
+### Revised Summary Data
+While Thomas High School benefited from the removal of the suspect data, the small sample size of 461 students appeared to have little effect on the broader district results.  
